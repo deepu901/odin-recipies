@@ -1,0 +1,33 @@
+*{
+    background-color: bisque;
+}
+
+#head{
+    text-align: center;
+    color: brown;
+    border-style: dotted;
+    }
+
+    img{
+        image-resolution: 100px;
+        border-style: solid;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        
+
+    }
+
+    p{
+      font-size: large;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+
+    .dishes{
+        border-style: inset;
+        text-align: center;
+        border-color: green;
+        font-size: x-large;
+        
+    }
